@@ -1,8 +1,8 @@
-a = 3;
-const b = 2
-const b = 4
+// a = 3;
+// const b = 2
+// const b = 4
 
-const c = "gdhagdhagdhahdgdhgadhgahdghagdhaghda"
+// const c = "gdhagdhagdhahdgdhgadhgahdghagdhaghda"
 
 
 
